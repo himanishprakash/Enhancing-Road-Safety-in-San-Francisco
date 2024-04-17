@@ -18,19 +18,19 @@ This repository contains the work of Team JUGAADUS, presented at Aggie Hacks'24,
 
 ### Analysis Highlights
 
-**Geographical Distribution of Traffic Collisions**
-![Geographical Distribution of Traffic Collisions](/screenshots/Geographical_analysis_1.png)
-
 **Comprehensive Traffic Accident Report**
 ![Comprehensive Traffic Accident Report](/screenshots/Overview-dashboard.png)
 
-**Traffic Collision Analysis Over Time**
+**Geographical Distribution of Traffic Collisions with No signal and No Speed Limit**
+![Geographical Distribution of Traffic Collisions](/screenshots/Geigraphical_analysis_1.png)
+
+**Geographical Distribution of Traffic Collisions with signal and Speed Limit**
 ![Traffic Collision Analysis Over Time](/screenshots/Geographical_analysis_2.png)
 
 **Analyzing Traffic Incidents**
 ![Analyzing Traffic Incidents](/screenshots/Traffic_collision.png)
 
-- Increased collision incidences on weekdays, with peaks at 8 AM and 4 PM.
+- Increased collision incidences on weekdays, peaks at 8 AM and 4 PM.
 - Geographic distribution analysis indicating a correlation between the absence of traffic signals or speed limits and higher collision frequencies.
 - Neighborhoods like Mission and South of Market are identified as requiring immediate attention due to high accident rates.
 - A majority of collisions are broadside impacts, indicating a need for improved safety measures at intersections.
