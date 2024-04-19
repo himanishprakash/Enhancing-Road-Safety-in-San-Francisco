@@ -45,13 +45,11 @@ Our analysis supports the implementation of smart traffic controls and dynamic s
 
 ### Challenges and Societal Impact
 - Overcoming resource constraints and collaboration challenges.
-- Addressing the societal cost of traffic collisions, which significantly affects public revenue and overall economy.
+- Addressing the societal cost of traffic collisions significantly affects public revenue and the overall economy.
 
 ### Conclusion
 Our collaborative efforts with city officials, communities, and individuals are crucial to achieving Vision Zero's mission of zero traffic fatalities by 2024.
 
-### Appendix
-- Link to Tableau Dashboard for detailed analysis: [Tableau Dashboard](https://drive.google.com/drive/folders/1thm4LR_NnyEQfn6aR5H8hIsk698fyaei)
 
 ### Contact
 For more information or collaboration opportunities, please contact:
